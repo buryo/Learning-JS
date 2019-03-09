@@ -66,7 +66,6 @@
 
     // ask the question
     (function(){
-        // putting the answer in a variable
         let answer = '';
 
         // keep asking questions while the user answer is not 'exit'
