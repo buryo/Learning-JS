@@ -51,7 +51,7 @@
         console.log('*************************');
     };
 
-    // question | answers | answer
+    // question | answers | correct answer
     let q1 = new Question('What is 1+1', [2, 1, 5], 2);
     let q2 = new Question('What is 3+1', [1, 2, 4], 4);
     let q3 = new Question('What is 5+1', [3, 5, 6], 6);
